@@ -9,8 +9,6 @@
   <maintainer email="mattanimation@gmail.com">Matt Murray</maintainer>
   <license>MIT</license>
 
-  <buildtool_depend>ament_python</buildtool_depend>
-
   <exec_depend>sensor_msgs</exec_depend>
   <exec_depend>nmea_msgs</exec_depend>
   <exec_depend>rclpy</exec_depend>
